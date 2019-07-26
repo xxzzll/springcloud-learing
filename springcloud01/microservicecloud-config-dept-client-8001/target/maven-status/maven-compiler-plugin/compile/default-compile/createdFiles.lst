@@ -1,0 +1,5 @@
+com/huawei/springcloud/DeptProvider8001_Config_App.class
+com/huawei/springcloud/service/impl/DeptServiceImpl.class
+com/huawei/springcloud/controller/DeptController.class
+com/huawei/springcloud/dao/DeptDao.class
+com/huawei/springcloud/service/DeptService.class

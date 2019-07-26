@@ -1,0 +1,3 @@
+/home/xixi/IdeaProjects/springcloud01/microservicecloud-api/src/main/java/com/huawei/springcloud/entities/Dept.java
+/home/xixi/IdeaProjects/springcloud01/microservicecloud-api/src/main/java/com/huawei/springcloud/service/DeptClientService.java
+/home/xixi/IdeaProjects/springcloud01/microservicecloud-api/src/main/java/com/huawei/springcloud/service/DeptClientServiceFallbackFactory.java

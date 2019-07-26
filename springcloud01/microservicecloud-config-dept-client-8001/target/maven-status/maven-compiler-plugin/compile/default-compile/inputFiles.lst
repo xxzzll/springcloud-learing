@@ -1,0 +1,5 @@
+/home/xixi/IdeaProjects/springcloud01/microservicecloud-config-dept-client-8001/src/main/java/com/huawei/springcloud/controller/DeptController.java
+/home/xixi/IdeaProjects/springcloud01/microservicecloud-config-dept-client-8001/src/main/java/com/huawei/springcloud/DeptProvider8001_Config_App.java
+/home/xixi/IdeaProjects/springcloud01/microservicecloud-config-dept-client-8001/src/main/java/com/huawei/springcloud/dao/DeptDao.java
+/home/xixi/IdeaProjects/springcloud01/microservicecloud-config-dept-client-8001/src/main/java/com/huawei/springcloud/service/DeptService.java
+/home/xixi/IdeaProjects/springcloud01/microservicecloud-config-dept-client-8001/src/main/java/com/huawei/springcloud/service/impl/DeptServiceImpl.java

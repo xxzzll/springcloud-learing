@@ -1,0 +1,4 @@
+com/huawei/springcloud/service/DeptClientService.class
+com/huawei/springcloud/service/DeptClientServiceFallbackFactory$1.class
+com/huawei/springcloud/service/DeptClientServiceFallbackFactory.class
+com/huawei/springcloud/entities/Dept.class

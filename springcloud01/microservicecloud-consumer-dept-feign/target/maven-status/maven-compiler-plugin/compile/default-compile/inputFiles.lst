@@ -1,0 +1,3 @@
+/home/xixi/IdeaProjects/springcloud01/microservicecloud-consumer-dept-feign/src/main/java/com/huawei/springcloud/DeptConsumer80_Feign_App.java
+/home/xixi/IdeaProjects/springcloud01/microservicecloud-consumer-dept-feign/src/main/java/com/huawei/springcloud/cfgbeans/ConfigBean.java
+/home/xixi/IdeaProjects/springcloud01/microservicecloud-consumer-dept-feign/src/main/java/com/huawei/springcloud/controller/DeptController.java

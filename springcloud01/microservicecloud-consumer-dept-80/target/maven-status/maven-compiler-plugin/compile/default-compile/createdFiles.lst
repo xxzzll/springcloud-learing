@@ -1,0 +1,5 @@
+com/huawei/myrule/MyRuleConfig.class
+com/huawei/springcloud/cfgbeans/ConfigBean.class
+com/huawei/myrule/RandomRule_LZX.class
+com/huawei/springcloud/controller/DeptController.class
+com/huawei/springcloud/DeptConsumer80_App.class
