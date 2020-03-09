@@ -30,7 +30,7 @@ public class PaymentController {
         if (result > 0) {
             return new CommonResult(200, "插入数据成功", result);
         }else{
-            return new CommonResult(500, "插入失败");
+            return new CommonResult(500, "插入失败", null);
         }
     }
 
@@ -42,7 +42,7 @@ public class PaymentController {
         if(payment != null){
             return new CommonResult(200, "查询成功", payment);
         }else{
-            return new CommonResult(444, "查询失败");
+            return new CommonResult(444, "查询失败", null);
         }
     }
 }
