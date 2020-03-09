@@ -25,7 +25,7 @@ eureka:
   client:
     service-url:
       #单机注册defaultZone: http://localhost:7001/eureka
-      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002,com:7002/eureka/,http://eureka7003,com:7003/eureka/
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
   instance:
     instance-id: microservicecloud-dept8001 # 服务名称修改
     prefer-ip-address: true #访问ip信息显示

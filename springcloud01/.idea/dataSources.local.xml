@@ -9,7 +9,16 @@
       <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
       <user-name>root</user-name>
-      <introspection-schemas>*:cloudDB01,cloudDB02,cloudDB03,mysql</introspection-schemas>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="cloudDB01" />
+            <name qname="cloudDB02" />
+            <name qname="cloudDB03" />
+            <name qname="mysql" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
     </data-source>
   </component>
 </project>
