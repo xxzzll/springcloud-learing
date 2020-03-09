@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  * @author xixi
- * @Description： 前端公共返回实体类
+ * @Description：
  * @create 2020/3/9
  * @since 1.0.0
  */
