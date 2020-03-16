@@ -20,7 +20,9 @@ import javax.annotation.Resource;
 @RequestMapping("order")
 public class OrderController {
 
-    private static final String PAYMENT_URL = "http://localhost:8001/";
+//    private static final String PAYMENT_URL = "http://localhost:8001/";
+    // 服务消费端，消费的服务地址不能写死，而写成springboot提供的服务名称
+    private static final String PAYMENT_URL = "http://CLOUD-PAYMENT-SERVICE/";
 
     @Resource
     private RestTemplate restTemplate;
