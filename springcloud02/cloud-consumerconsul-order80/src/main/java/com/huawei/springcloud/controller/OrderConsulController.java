@@ -16,7 +16,7 @@ import javax.annotation.Resource;
 @RestController
 @RequestMapping("consulOrder")
 public class OrderConsulController {
-    private static final String INVOKE_URL = "http://cloud-consul-service";
+    private static final String INVOKE_URL = "http://cloud-consul-payment";
 
     @Resource
     private RestTemplate restTemplate;
