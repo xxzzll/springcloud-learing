@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
+import java.util.concurrent.TimeUnit;
 
 /**
  * @author xixi
@@ -25,6 +26,11 @@ public class OpenfeignOrderController {
     @GetMapping("query/{id}")
     public CommonResult getPaymentById(@PathVariable("id") Long id){
         return paymentService.getPaymentById(id);
+    }
+
+    @GetMapping("getOpenFeinTimeout")
+    public String getOpenFeinTimeout(){
+        return paymentService.getOpenFeinTimeout();
     }
 
 }

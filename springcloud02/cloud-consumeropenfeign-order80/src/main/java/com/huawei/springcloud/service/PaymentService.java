@@ -18,4 +18,7 @@ public interface PaymentService {
 
     @GetMapping("payment/query/{id}")
     public CommonResult getPaymentById(@PathVariable("id") Long id);
+
+    @GetMapping("payment/getOpenFeinTimeout")
+    public String getOpenFeinTimeout();
 }
