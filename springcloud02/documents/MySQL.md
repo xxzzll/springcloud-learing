@@ -1,6 +1,6 @@
-# MySQL
-## [迪卡尔积原理](https://blog.csdn.net/u010931123/article/details/81667723)
+# [MySQL](https://www.bilibili.com/video/BV1KW411u7vy)
 
+## [迪卡尔积原理](https://blog.csdn.net/u010931123/article/details/81667723)
 
 ## [MySQL底层架构原理，工作流程和存储引擎的数据结构讲解](https://blog.csdn.net/m0_38075425/article/details/82256315)
 
