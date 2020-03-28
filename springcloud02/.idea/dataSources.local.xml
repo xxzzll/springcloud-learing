@@ -13,10 +13,13 @@
         <introspection-scope>
           <node kind="schema">
             <name qname="cloud2020" />
+            <name qname="db01" />
             <name qname="seata" />
+            <name qname="seata_account" />
             <name qname="seata_order" />
             <name qname="seata_storage" />
-            <name qname="seata_account" />
+            <name qname="superx" />
+            <name qname="test2020" />
           </node>
         </introspection-scope>
       </schema-mapping>
